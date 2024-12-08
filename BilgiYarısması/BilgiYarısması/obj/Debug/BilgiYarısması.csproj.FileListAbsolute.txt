@@ -1,0 +1,10 @@
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\bin\Debug\BilgiYarısması.exe.config
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\bin\Debug\BilgiYarısması.exe
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\bin\Debug\BilgiYarısması.pdb
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.exe
+C:\Users\berka\OneDrive\Masaüstü\Yeni klasör\BilgiYarısması\BilgiYarısması\obj\Debug\BilgiYarısması.pdb
